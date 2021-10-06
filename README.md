@@ -1,7 +1,7 @@
 # Data structures workshop
 A thorough introduction into `list` and `tuple` in Python 3.
 
->***Author:*** Philip Wilkinson Head of _Science_ (2021/2022)
+>***Author:*** Philip Wilkinson Head of _Science_ (21/22)
 
 >***Contact:*** philip.wilkinson.19@ucl.ac.uk
 
